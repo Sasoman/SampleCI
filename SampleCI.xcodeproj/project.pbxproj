@@ -514,6 +514,7 @@
 				B326B1FC1E590A580008E13C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B326B1FD1E590A580008E13C /* Build configuration list for PBXNativeTarget "SampleCITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				B326B1FF1E590A580008E13C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B326B2001E590A580008E13C /* Build configuration list for PBXNativeTarget "SampleCIUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				B326B2021E590A580008E13C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
